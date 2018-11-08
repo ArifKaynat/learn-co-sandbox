@@ -1,0 +1,6 @@
+fuction sayHello(){
+
+console.log('Hello!')
+}
+
+sayHello()
